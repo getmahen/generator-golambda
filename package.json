@@ -1,0 +1,22 @@
+{
+  "name": "generator-golambda",
+  "version": "1.0.0",
+  "description": "Code generator for Go based lambda projects",
+  "main": "index.js",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "URIjs": "~1.11.2",
+    "asciify": "~1.3.3",
+    "lodash": "~2.4.1",
+    "pluralize": "~0.0.6",
+    "underscore.string": "~2.3.3",
+    "yeoman-generator": "^0.21.2"
+  }
+}

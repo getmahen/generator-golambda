@@ -1,0 +1,5 @@
+bucket = "credo-dev-terraform"
+dynamodb_table  = "credo_dev_terraform_locks"
+profile = "credo-auth"
+role_arn = "arn:aws:iam::674346455231:role/terraform"
+region = "us-east-2"
